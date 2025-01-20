@@ -1,0 +1,5 @@
+entity Contact {
+  id Long,
+  name String required,
+  email String required pattern(/^[^@\s]+@[^@\s]+\.[^@\s]+$/)
+}
