@@ -1,0 +1,38 @@
+[
+    {
+      "id": "block1",
+      "shape": "Running",
+      "size": "large",
+      "color": "red",
+      "message": "completed running 5 km"
+    },
+    {
+      "id": "block2",
+      "shape": "Shooting",
+      "size": "small",
+      "color": "blue",
+      "message": "practiced 50 shots today"
+    },
+    {
+      "id": "block3",
+      "shape": "Swimming",
+      "size": "medium",
+      "color": "green",
+      "message": "swam 10 laps"
+    },
+    {
+      "id": "block4",
+      "shape": "rectangle",
+      "size": "large",
+      "color": "yellow",
+      "message": "Rectangle block dropped successfully!"
+    },
+    {
+      "id": "block5",
+      "shape": "hexagon",
+      "size": "medium",
+      "color": "purple",
+      "message": "Hexagon block matched perfectly!"
+    }
+  ]
+  
