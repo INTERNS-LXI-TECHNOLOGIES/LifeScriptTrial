@@ -2,14 +2,7 @@
     {
       "id": "dropbox1",
       "accepts": "Running"
-    },
-    {
-      "id": "dropbox2",
-      "accepts": "Shooting"
-    },
-    {
-      "id": "dropbox3",
-      "accepts": "Swimming"
     }
+  
   ]
   

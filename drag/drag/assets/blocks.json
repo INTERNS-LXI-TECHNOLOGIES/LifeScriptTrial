@@ -26,13 +26,6 @@
       "size": "large",
       "color": "yellow",
       "message": "Rectangle block dropped successfully!"
-    },
-    {
-      "id": "block5",
-      "shape": "hexagon",
-      "size": "medium",
-      "color": "purple",
-      "message": "Hexagon block matched perfectly!"
     }
   ]
   
